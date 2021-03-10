@@ -70,7 +70,7 @@ async function handleNewIncident(e) {
                         onChange={e => setValue(e.target.value)}
                         />
 
-                    <button className="button" type="submit" >Cadastar</button>
+                    <button className="button" type="submit" >Cadastrar</button>
 
                 </form>
 
